@@ -1,8 +1,8 @@
 
 # Project Information 
-Project-Name - TEC College Website
-Project-Type - Portfloio Website
-Project-Duration - 1 Week
+- Project-Name - TEC College Website
+- Project-Type - Portfloio Website
+- Project-Duration - 1 Week
 
 # Starting Date 
 - 6.12.2021
